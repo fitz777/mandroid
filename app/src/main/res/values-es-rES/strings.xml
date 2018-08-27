@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question1">Cuando los semáforos están fuera de servicio, ¿quién tiene la prioridad?</string>
+    <string name="question1_option1">El tráfico sigue recto</string>
+    <string name="question1_option2">El tráfico girando a la derecha</string>
+    <string name="question1_option3">Nadie</string>
+    <string name="question1_option4">El tráfico girando a la izquierda</string>
+    <string name="question2">¿Qué significa esta señal?</string>
+    <string name="question2_option1">Mantenerse en un carril</string>
+    <string name="question2_option2">Ceder el paso al tráfico que viene en sentido contrario</string>
+    <string name="question2_option3">" No adelantar"</string>
+    <string name="question2_option4">Forma dos carriles</string>
+    <string name="question3">Se puede adelantar a la izquierda cuando (elige todo lo que aplique)</string>
+    <string name="question3_option1">El vehículo que está delante está señalando que gira a la derecha, y hay espacio para hacerlo</string>
+    <string name="question3_option2">El vehículo en el carril del medio va demasiado despacio y el carril interior está despejado</string>
+    <string name="question3_option3">El tráfico se mueve lentamente en colas y la cola a su derecha se mueve más despacio de usted</string>
+    <string name="question3_option4">Instruido por un oficial de policía</string>
+    <string name="question4">Estás en una autopista. Una cruz roja se muestra sobre el arcén. ¿Qué significa esto?</string>
+    <string name="question4_option1">Deténgase en este carril para contestar su teléfono móvil</string>
+    <string name="question4_option2">Use este carril como carril de carrera</string>
+    <string name="question4_option3">Este carril se puede usar si se necesita un descanso</string>
+    <string name="question4_option4">No deba viajar en este carril</string>
+    <string name="question5">Para cumplir con el estándar mínimo de visión, ¿a qué distancia en metros debe leer un número de matrícula?</string>
+    <string name="number_of_meters">Cantidad de metros</string>
+    <string name="submit">Enviar</string>
+</resources>

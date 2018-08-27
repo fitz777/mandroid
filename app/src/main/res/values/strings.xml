@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="label1" translatable="false">1.</string>
+    <string name="question1">When traffic lights are out of order, who has priority?</string>
+    <string name="question1_option1">Traffic going straight on</string>
+    <string name="question1_option2">Traffic turning right</string>
+    <string name="question1_option3">Nobody</string>
+    <string name="question1_option4">Traffic turning left</string>
+    <string name="label2" translatable="false">2.</string>
+    <string name="question2">What does this sign mean?</string>
+    <string name="question2_option1">Keep in one lane</string>
+    <string name="question2_option2">Give way to incoming traffic</string>
+    <string name="question2_option3">Do not overtake</string>
+    <string name="question2_option4">Form two lanes</string>
+    <string name="label3" translatable="false">3.</string>
+    <string name="question3">You can overtake on the left when (choose all that apply)</string>
+    <string name="question3_option1">The vehicle in front is signalling to turn right, and there is room to do so</string>
+    <string name="question3_option2">The vehicle in the middle lane is going too slowly and the inside lane is clear</string>
+    <string name="question3_option3">The traffic is moving slowly in queues and the queue on your right is moving more slowly than you are</string>
+    <string name="question3_option4">Instructed to do so by a police officer</string>
+    <string name="label4" translatable="false">4.</string>
+    <string name="question4">You are on a motorway. A red cross is displayed above the hard shoulder. What does this mean?</string>
+    <string name="question4_option1">Pull up in this lane to answer your mobile phone</string>
+    <string name="question4_option2">Use this lane as a running lane</string>
+    <string name="question4_option3">This lane can be used if you need a rest</string>
+    <string name="question4_option4">You should not travel in this lane</string>
+    <string name="label5" translatable="false">5.</string>
+    <string name="question5">To meet minimum sight standard, at what distance in meters must you be able to read a car number plate?</string>
+    <string name="submit">Submit</string>
+    <!--hint text for question 5-->
+    <string name="number_of_meters">Number of meters</string>
+</resources>
